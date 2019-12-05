@@ -7,6 +7,7 @@ NGINX is open source software for web serving, reverse proxying, caching, load b
 ```sudo apt-get update```
 ```sudo apt-get install nginx```
 
+
 ## Managing Nginx Process
 To stop your web server, type:
 
